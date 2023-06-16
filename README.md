@@ -1,7 +1,7 @@
 # MSI-B460M-WIFI_i7-10700_RX590
 黑苹果 intel i7 10700+MSI MAG B460M MORTAR WIFI+RX590
 
-## 硬件配置
+## 配置
 
 | 配置        | 型号                         | 说明                              |
 | ----------- | ---------------------------- | --------------------------------- |
@@ -38,6 +38,6 @@
 | macOS Monterey 12.6.7      | ✅                                                            | [地址](https://github.com/Hakarikyo/MSI-B460M-MORTAR-WIFI-10700-RX590/releases/tag/%E5%8F%91%E5%B8%83%E6%9B%B4%E6%96%B0) | 待反馈 |
 | macOS Ventura 13.4（13.5） | ✅                                                            | [地址](https://github.com/Hakarikyo/MSI-B460M-MORTAR-WIFI-10700-RX590/releases/tag/%E5%8F%91%E5%B8%83%E6%9B%B4%E6%96%B0) | 待反馈 |
 
-<h3>参考对象：</h3>
+<h3>参考：</h3>
 
 https://github.com/maemual/MSI-B460M-10700-5500XT
