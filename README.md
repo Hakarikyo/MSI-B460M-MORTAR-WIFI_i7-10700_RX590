@@ -17,9 +17,9 @@
 | WiFi + 蓝牙 | Intel® AX200                                      |
 | 声卡        | Realtek® ALC1200                                  |
 
-<h3>更新</h3>
+<h3>预览</h3>
 
-2023.6.15 修复Ventura 13.4 蓝牙
+<img src="/Users/hakarikyo/Documents/GitHub/MSI-B460M-MORTAR-WIFI-10700-RX590/Picture/Ventura_13.4.png" alt="Ventura_13.4" style="zoom: 33%;" />
 
 ### BIOS
 
@@ -32,13 +32,12 @@
 
 ### 兼容性
 
-+ [x] 睡眠 唤醒
-+ [x] 订制USB端口
-+ [x] 独显
-+ [x] 板载声卡
-+ [x] 板载网卡（需要手动设置1000baseT）
-+ [x] AX200 WIFI+蓝牙
+| 版本                  | 支持                                                         | BUG    |
+| --------------------- | ------------------------------------------------------------ | ------ |
+| macOS Sonoma Beta     | ✅ （WIFI需搭配包内HeliPort使用 [@zxystd](https://github.com/OpenIntelWireless/HeliPort)） | 待反馈 |
+| macOS Monterey 12.6.6 | ✅                                                            | 待反馈 |
+| macOS Ventura 13.4    | ✅                                                            | 待反馈 |
 
-参考对象：
+<h3>参考对象：</h3>
 
 https://github.com/maemual/MSI-B460M-10700-5500XT
