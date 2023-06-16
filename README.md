@@ -17,6 +17,24 @@ intel i7 10700+MSI MAG B460M MORTAR WIFI+RX590 黑苹果
 | WiFi + 蓝牙 | Intel® AX200                 | Sonoma WIFI需搭配包内HeliPort使用 |
 | 声卡        | Realtek® ALC1200             |                                   |
 
+### 更新
+
+2023.06.16
+
+同步更新至Opencore 0.9.3
+
+更新Kext
+
+修复Ventura 13.4蓝牙问题 [@zxystd](https://github.com/zxystd/BrcmPatchRAM)
+
+关闭啰嗦模式
+
+修正config.plist错误、调整Kext
+
+支持在线增量升级
+
+更新主题
+
 <h3>预览</h3>
 
 <img src="https://github.com/Hakarikyo/MSI-B460M-MORTAR-WIFI-10700-RX590/blob/main/Picture/Ventura_13.4.png?raw=true" alt="Ventura_13.4" style="zoom: 33%;" />
