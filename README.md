@@ -58,9 +58,9 @@ intel i7 10700+MSI MAG B460M MORTAR WIFI+RX590 黑苹果
 
 | 版本                       | 支持                                                         | 下载                                                         | BUG    |
 | -------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------ |
-| macOS Sonoma Beta          | ✅ （WIFI需搭配包内HeliPort使用 [@zxystd](https://github.com/OpenIntelWireless/HeliPort)） | [地址](https://github.com/Hakarikyo/MSI-B460M-MORTAR-WIFI-10700-RX590/releases/tag/%E6%B5%8B%E8%AF%95%E6%96%B0%E6%9B%B4%E6%96%B0) | 待反馈 |
-| macOS Monterey 12.6.7      | ✅                                                            | [地址](https://github.com/Hakarikyo/MSI-B460M-MORTAR-WIFI-10700-RX590/releases/tag/%E5%8F%91%E5%B8%83%E6%96%B0%E6%9B%B4%E6%96%B0) | 待反馈 |
-| macOS Ventura 13.4（13.5） | ✅                                                            | [地址](https://github.com/Hakarikyo/MSI-B460M-MORTAR-WIFI-10700-RX590/releases/tag/%E5%8F%91%E5%B8%83%E6%96%B0%E6%9B%B4%E6%96%B0) | 待反馈 |
+| macOS Sonoma Beta          | ✅ （WIFI需搭配包内HeliPort使用 [@zxystd](https://github.com/OpenIntelWireless/HeliPort)） | [地址](https://github.com/Hakarikyo/MSI-B460M-MORTAR-WIFI-10700-RX590/releases) | 待测试 |
+| macOS Monterey 12.6.7      | ✅                                                            | [地址](https://github.com/Hakarikyo/MSI-B460M-MORTAR-WIFI-10700-RX590/releases) | 待反馈 |
+| macOS Ventura 13.4（13.5） | ✅                                                            | [地址](https://github.com/Hakarikyo/MSI-B460M-MORTAR-WIFI-10700-RX590/releases) | 待反馈 |
 
 <h3>参考：</h3>
 
