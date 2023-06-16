@@ -8,7 +8,7 @@
 | CPU         | Intel i7 10700               |                                   |
 | 主板        | 微星 MAG B460M MORTAR WiFi   |                                   |
 | 显卡        | 迪兰DEVIL RX 590 8G          |                                   |
-| 内存        | 3200MHz 16G * 2              |                                   |
+| 内存        | DDR4 3200MHz 16G * 2         |                                   |
 | SSD         | 梵想 2T M.2                  |                                   |
 | 机箱        | 傻瓜超人k88                  |                                   |
 | 电源        | 振华 铜皇450W                |                                   |
