@@ -21,19 +21,21 @@ intel i7 10700+MSI MAG B460M MORTAR WIFI+RX590 黑苹果
 
 2023.06.16
 
-同步更新至Opencore 0.9.3
+- 同步更新至Opencore 0.9.3
 
-更新Kext
 
-修复Ventura 13.4蓝牙问题 [@zxystd](https://github.com/zxystd/BrcmPatchRAM)
+- 更新Kext
 
-关闭啰嗦模式
+- 修复Ventura 13.4蓝牙问题 [@zxystd](https://github.com/zxystd/BrcmPatchRAM)
 
-修正config.plist错误、调整Kext
+- 关闭啰嗦模式
 
-支持在线增量升级
+- 修正config.plist错误、调整Kext
 
-更新主题
+- 支持在线增量升级
+
+- 更新主题
+
 
 <h3>预览</h3>
 
