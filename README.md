@@ -21,6 +21,8 @@ intel i7 10700+MSI MAG B460M MORTAR WIFI+RX590 黑苹果
 
 2023.06.16_New
 
+定制USB端口
+
 修复启动页面出现EFI引导项问题
 
 2023.06.16
