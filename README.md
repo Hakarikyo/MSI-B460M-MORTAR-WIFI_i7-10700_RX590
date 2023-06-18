@@ -71,6 +71,22 @@ intel i7 10700+MSI MAG B460M MORTAR WIFI+RX590 黑苹果
 | macOS Monterey 12.6.7      | ✅                                                            | [地址](https://github.com/Hakarikyo/MSI-B460M-MORTAR-WIFI-10700-RX590/releases) | 待反馈 |
 | macOS Ventura 13.4（13.5） | ✅                                                            | [地址](https://github.com/Hakarikyo/MSI-B460M-MORTAR-WIFI-10700-RX590/releases) | 待反馈 |
 
+### **其他支持**
+
+##### CPU支持：
+
+- 理论上支持所有10代CPU
+
+##### 显卡支持：
+
+- 支持仅有核显的UHD630显卡
+- 支持 RX500 系显卡，且不需要改动设置
+- 其他系列的显卡，需自行探索
+
+> PS: 使用独显的需在BIOS里强制打开CPU核显（高级 -> 内建显示配置 -> 集成显卡多显示器(IGD Multi-monitor) -> 允许），否则核显硬件解码失效，只使用核显的可以忽略
+
 <h3>参考对象</h3>
 
 https://github.com/maemual/MSI-B460M-10700-5500XT
+
+https://github.com/leggod/Hackintosh-B460M-MORTAR
