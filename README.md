@@ -32,6 +32,10 @@ intel i7 10700+MSI MAG B460M MORTAR WIFI+RX590 黑苹果
 
 ### 更新说明
 
+2023.06.18
+
+- 更新蓝牙补丁文件 [@zxystd](https://github.com/zxystd/BrcmPatchRAM)
+
 2023.06.16_New
 
 - 定制USB端口
