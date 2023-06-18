@@ -22,7 +22,7 @@ intel i7 10700+MSI MAG B460M MORTAR WIFI+RX590 黑苹果
 
 - 定制的USB端口
 - 支持核显加速
-- intel无线+蓝牙（隔空只能收）
+- Intel® AX200 无线+蓝牙（隔空只能收）
 - 板载Realtek® ALC1200声卡
 - 板载Realtek RTL8125B千兆网卡
 - 定制的OC引导界面（引导界面按空格可以出现重置Nvram的功能，双系统按Ctrl+回车可以设置默认启动项）
