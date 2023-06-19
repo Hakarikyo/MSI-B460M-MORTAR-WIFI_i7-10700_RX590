@@ -44,7 +44,7 @@ Intel i7 10700+MSI MAG B460M MORTAR WIFI+RX590 黑苹果
 
 ### **时间问题**
 
-Windows+macOS双系统时间不对，Windows下导入下面的注册表文件即可
+Windows+macOS双系统时间不对，Windows下导入下面的注册表文件后重启即可
 
 [打开时间同步](https://github.com/Hakarikyo/MSI-B460M-MORTAR-WIFI_i7-10700_RX590/blob/main/Time/%E6%97%B6%E9%97%B4%E5%90%8C%E6%AD%A5%E5%BC%80WinUTCOn.reg)
 
