@@ -1,22 +1,22 @@
 # MSI-B460M-WIFI_i7-10700_RX590
-intel i7 10700+MSI MAG B460M MORTAR WIFI+RX590 黑苹果
+Intel i7 10700+MSI MAG B460M MORTAR WIFI+RX590 黑苹果
 
 ## 电脑配置
 
-| 名称        | 型号                         | 说明                                    |
-| ----------- | ---------------------------- | --------------------------------------- |
-| 显示器      | DELL U2720Q                  | 4K  60Hz                                |
-| CPU         | Intel i7 10700               |                                         |
-| 主板        | 微星 MAG B460M MORTAR WiFi   |                                         |
-| 显卡        | 迪兰DEVIL RX 590 8G          |                                         |
-| 内存        | DDR4 3200MHz 16G * 2         |                                         |
-| SSD         | 梵想 2T M.2                  |                                         |
-| 机箱        | 傻瓜超人k88                  |                                         |
-| 电源        | 振华 铜皇450W                |                                         |
-| 散热        | 利民 AK120 MINI              |                                         |
-| 有线        | 板载Realtek RTL8125B千兆网卡 | 需手动改为1000baseT                     |
-| WiFi + 蓝牙 | Intel® AX200                 | macOS Sonoma WIFI需搭配包内HeliPort使用 |
-| 声卡        | Realtek® ALC1200             |                                         |
+| 名称        | 型号                                        | 说明                                    |
+| ----------- | ------------------------------------------- | --------------------------------------- |
+| 显示器      | DELL U2720Q                                 | 4K  60Hz                                |
+| CPU         | Intel i7 10700                              |                                         |
+| 主板        | 微星 MAG B460M MORTAR WiFi                  |                                         |
+| 显卡        | Intel® UHD Graphics 630+迪兰DEVIL RX 590 8G | 支持核显加速                            |
+| 内存        | DDR4 3200MHz 16G * 2                        |                                         |
+| SSD         | 梵想 2T M.2                                 |                                         |
+| 机箱        | 傻瓜超人k88                                 |                                         |
+| 电源        | 振华 铜皇450W                               |                                         |
+| 散热        | 利民 AK120 MINI                             |                                         |
+| 有线        | 板载Realtek RTL8125B千兆网卡                | 需手动改为1000baseT                     |
+| WiFi + 蓝牙 | Intel® AX200                                | macOS Sonoma WIFI需搭配包内HeliPort使用 |
+| 声卡        | Realtek® ALC1200                            |                                         |
 
 ### **正常功能**
 
@@ -79,7 +79,7 @@ intel i7 10700+MSI MAG B460M MORTAR WIFI+RX590 黑苹果
 
 ##### 网卡支持：
 
-- intel无线网卡
+- Intel无线网卡
 
 ##### CPU支持：
 
@@ -87,8 +87,8 @@ intel i7 10700+MSI MAG B460M MORTAR WIFI+RX590 黑苹果
 
 ##### 显卡支持：
 
-- 支持仅有核显的UHD630显卡
-- 支持 RX400 RX500 系显卡，且不需要改动设置
+- 支持仅有核显的Intel® UHD Graphics 630显卡
+- 支持AMD RX400 RX500 系显卡，且不需要改动设置
 - 其他系列的显卡，需自行探索
 
 > PS: 使用独显的需在BIOS里强制打开CPU核显（高级 -> 内建显示配置 -> 集成显卡多显示器(IGD Multi-monitor) -> 允许），否则核显硬件解码失效，只使用核显的可以忽略
