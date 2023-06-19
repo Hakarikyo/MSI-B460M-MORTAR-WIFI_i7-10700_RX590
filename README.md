@@ -6,7 +6,7 @@ Intel i7 10700+MSI MAG B460M MORTAR WIFI+RX590 黑苹果
 | 名称        | 型号                                        | 说明                                    |
 | ----------- | ------------------------------------------- | --------------------------------------- |
 | 显示器      | DELL U2720Q                                 | 4K  60Hz                                |
-| CPU         | Intel i7 10700                              |                                         |
+| CPU         | Intel® i7 10700                             |                                         |
 | 主板        | 微星 MAG B460M MORTAR WiFi                  |                                         |
 | 显卡        | Intel® UHD Graphics 630+迪兰DEVIL RX 590 8G | 支持核显加速                            |
 | 内存        | DDR4 3200MHz 16G * 2                        |                                         |
@@ -14,7 +14,7 @@ Intel i7 10700+MSI MAG B460M MORTAR WIFI+RX590 黑苹果
 | 机箱        | 傻瓜超人k88                                 |                                         |
 | 电源        | 振华 铜皇450W                               |                                         |
 | 散热        | 利民 AK120 MINI                             |                                         |
-| 有线        | 板载Realtek RTL8125B千兆网卡                | 需手动改为1000baseT                     |
+| 有线        | 板载Realtek® RTL8125B千兆网卡               | 需手动改为1000baseT                     |
 | WiFi + 蓝牙 | Intel® AX200                                | macOS Sonoma WIFI需搭配包内HeliPort使用 |
 | 声卡        | Realtek® ALC1200                            |                                         |
 
@@ -24,7 +24,7 @@ Intel i7 10700+MSI MAG B460M MORTAR WIFI+RX590 黑苹果
 - 支持核显加速
 - Intel® AX200 无线+蓝牙（隔空只能收）
 - 板载Realtek® ALC1200声卡
-- 板载Realtek RTL8125B千兆网卡（有线网卡使用需要去设置-网络-以太网-高级-硬件-手动设置速度:1000baseT）
+- 板载Realtek® RTL8125B千兆网卡（有线网卡使用需要去设置-网络-以太网-高级-硬件-手动设置速度:1000baseT）
 - 支持睡眠、唤醒（如有问题，使用Hackintool选择电源选项卡点击下方的螺丝刀图标即可修复）
 - 支持传感器
 - 定制的OC引导界面（引导界面按空格可以出现重置Nvram的功能，双系统按Ctrl+回车可以设置默认启动项）
